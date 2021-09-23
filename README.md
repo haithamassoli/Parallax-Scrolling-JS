@@ -1,2 +1,2 @@
 # Parallax-Scrolling-JS
-## https://github.com/haithamassoli/Parallax-Scrolling-JS
+## https://haithamassoli.github.io/Parallax-Scrolling-JS/
