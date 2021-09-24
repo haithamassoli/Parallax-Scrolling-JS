@@ -5,6 +5,9 @@
   padding: 0;
   scroll-behavior: smooth;
 }
+html {
+  overflow-x: hidden;
+}
 body {
   width: 100%;
   min-height: 100vh;
@@ -73,8 +76,9 @@ section img {
   position: absolute;
   top: 0;
   left: 0;
-  /* width: 100%; */
-  /* object-fit: fill; */
+  overflow-x: hidden;
+  /* width: 100%;
+  object-fit: fill; */
 }
 .explorer {
   padding: 15px 25px;
